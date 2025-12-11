@@ -9,7 +9,7 @@ const items = [
 ];
 
 //HTML で <tbody id="item-list"> と書かれた部分を JavaScript から取得する
-const tbody = document.getElementByld("item-list");
+const tbody = document.getElementById("item-list");
 
 // ---------------------
 //2.表示用の関数 render()
